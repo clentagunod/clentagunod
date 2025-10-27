@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Clent!
+I'm a developer who loves working with Python, Kotlin, and embedded systems.
 
-<!--
-**clentagunod/clentagunod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills
+- Python (Tkinter, Kivy, Streamlit)
+- Arduino / ESP32
+- Kotlin Android Development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://yourwebsite.com)
