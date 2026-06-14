@@ -85,4 +85,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I don’t just write code — I build systems that think.
+> I write code so I do not kill myself.
