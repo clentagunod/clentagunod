@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:00C2FF&text=Clent%20Agunod&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Developer%20%C2%B7%20AI%20%26%20Embedded%20Systems%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Clent Agunod banner" />
+<img src="./banner.svg" width="100%" alt="Clent Agunod banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=560&lines=Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Arduino+%26+ESP32+Builder;Python+%7C+Kotlin+%7C+C%2B%2B" alt="Typing animation" />
@@ -74,5 +74,3 @@ I build things that sit where **software meets the physical world**: clean web i
 <p align="center">
   <i>"Build things you're curious about, then make them better."</i>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00C2FF,100:0F172A&section=footer" width="100%" alt="footer" />
