@@ -72,5 +72,5 @@ I build things that sit where **software meets the physical world**: clean web i
 ---
 
 <p align="center">
-  <i>"Build things you're curious about, then make them better."</i>
+  <i>"Bahalag di utokan basta choy."</i>
 </p>
